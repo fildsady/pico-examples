@@ -31,7 +31,7 @@ int32_t factorial(int32_t n) {
         f *= i;
     }
     return f;
-}
+} 
 
 int32_t fibonacci(int32_t n) {
     if (n == 0) return 0;
