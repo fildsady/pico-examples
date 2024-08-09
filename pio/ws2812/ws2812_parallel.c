@@ -17,7 +17,7 @@
 
 #define FRAC_BITS 4
 #define NUM_PIXELS 64
-#define WS2812_PIN_BASE 2
+#define WS2812_PIN_BASE 28
 
 // horrible temporary hack to avoid changing pattern code
 static uint8_t *current_strip_out;
